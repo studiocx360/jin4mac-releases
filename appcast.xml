@@ -5,5 +5,20 @@
     <link>https://raw.githubusercontent.com/studiocx360/jin4mac-releases/main/appcast.xml</link>
     <description>Jin4Mac updates</description>
     <language>en</language>
+    <item>
+      <title>Version 0.4.52</title>
+      <description><![CDATA[
+                <ul>
+                    <li>Check for Updates in the Jin4Mac menu, so new versions install from inside the app.</li>
+                    <li>A 7-day free trial, and Licence in the Jin4Mac menu for your licence key.</li>
+                    <li>Two labels on each calendar day, each with its own pencil.</li>
+                </ul>
+      ]]></description>
+      <pubDate>Sat, 10 Oct 2026 08:05:44 -0000</pubDate>
+      <sparkle:version>0.4.52</sparkle:version>
+      <sparkle:shortVersionString>0.4.52</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/studiocx360/jin4mac-releases/releases/download/v0.4.52/Jin4Mac-0.4.52.dmg" sparkle:edSignature="Kkd8qGLQ2ASEkRb/dzUpWyo3ACGlthDoHRjA6L9+SRh7lGlgZ9R0V5i7IEdm/kN/2tEdOX6/zK50HHEqIhr7AQ==" length="48688048" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
