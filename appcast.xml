@@ -9,7 +9,11 @@
       <title>Version 0.4.56</title>
       <description><![CDATA[
                 <ul>
-                    <li>yes</li>
+                    <li>Settings, Surfaces: choose whether the pill shows, and set up the Control Surface in one place.</li>
+                    <li>A hidden pill fades out at rest and comes back while it listens.</li>
+                    <li>Window keys show a fraction and a side, like 1/2 L, and can be switched off.</li>
+                    <li>Triggers shows each window trigger with its window picture.</li>
+                    <li>Letters spoken with hyphens, like A-B-C, are typed as a spelling.</li>
                 </ul>
       ]]></description>
       <pubDate>Sun, 11 Oct 2026 04:15:08 -0000</pubDate>
