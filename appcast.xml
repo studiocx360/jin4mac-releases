@@ -6,6 +6,25 @@
     <description>Jin4Mac updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.6.82</title>
+      <description><![CDATA[
+                <ul>
+                    <li>Jin4Mac now shares Jin Mobile&#x27;s version number, 1.6.82, so the two apps on the same number carry the same word lists.</li>
+                    <li>- Vocabulary phrases fix a slipped word: &quot;generative film&quot; becomes Generative Fill.</li>
+                    <li>- 265 business and industry phrases added, the same as on the phone.</li>
+                    <li>- Words no longer run together in the Speech Coach (&quot;withespecially&quot;).</li>
+                    <li>- My Apps reaches your iPhone and iPad, and edits there come back here.</li>
+                    <li>- Click anywhere outside a task you are editing to save it.</li>
+                    <li>- Bug fixes.</li>
+                </ul>
+      ]]></description>
+      <pubDate>Mon, 12 Oct 2026 07:43:51 -0000</pubDate>
+      <sparkle:version>1.6.82</sparkle:version>
+      <sparkle:shortVersionString>1.6.82</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/studiocx360/jin4mac-releases/releases/download/v1.6.82/Jin4Mac-1.6.82.dmg" sparkle:edSignature="yJpzQ+BvOdhQtiASHS7bn08F098KUnoVPjnSLFgIZjGp0LBstuuZUBqwP/ORL8fvpZtPN1rc+rAwJSFMRubpBQ==" length="48810417" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.4.59</title>
       <description><![CDATA[
                 <ul>
