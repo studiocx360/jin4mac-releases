@@ -6,6 +6,24 @@
     <description>Jin4Mac updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.6.89</title>
+      <description><![CDATA[
+                <ul>
+                    <li>Turn a project all day and each day stays one day, drawn as one bar across the week. Turn it off and the hours come back.</li>
+                    <li>Give an event a short description with the i in Event Tasks. Jin Mobile shows it too.</li>
+                    <li>Refresh an event from its workflow: new and reworded steps come in, and your ticks stay.</li>
+                    <li>Workflow steps can carry a note, and workflows open folded.</li>
+                    <li>With Local on, Apple&#x27;s server speech stays off too.</li>
+                    <li>The first click into Jin4Mac now reaches the calendar&#x27;s week.</li>
+                </ul>
+      ]]></description>
+      <pubDate>Mon, 19 Oct 2026 11:15:42 -0000</pubDate>
+      <sparkle:version>1.6.89</sparkle:version>
+      <sparkle:shortVersionString>1.6.89</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/studiocx360/jin4mac-releases/releases/download/v1.6.89/Jin4Mac-1.6.89.dmg" sparkle:edSignature="SuqZpXbi2Eg20nkCAKXbNQR/l7aRRHpySq8geTaF/xc2ux33BKGPY6QfC2jPhCbif+3X7qWKhzGs4oJuEDooAg==" length="49914288" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.88</title>
       <description><![CDATA[
                 <ul>
