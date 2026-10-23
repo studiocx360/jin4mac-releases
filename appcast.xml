@@ -6,6 +6,23 @@
     <description>Jin4Mac updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.6.90</title>
+      <description><![CDATA[
+                <ul>
+                    <li>Pick which screens the pill uses: tick one or more under Display in Settings, Surfaces.</li>
+                    <li>The Today Panel moves: drag it by its top and put it anywhere on your screen.</li>
+                    <li>The Today Panel shows other days. One arrow moves a day, two arrows move a week, and Skip passes over empty days.</li>
+                    <li>Each day of a project says which day it is, like Day 2 of 6.</li>
+                    <li>In the week by the hour, the time now shows in green in the hours down the left.</li>
+                </ul>
+      ]]></description>
+      <pubDate>Fri, 23 Oct 2026 04:46:11 -0000</pubDate>
+      <sparkle:version>1.6.90</sparkle:version>
+      <sparkle:shortVersionString>1.6.90</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/studiocx360/jin4mac-releases/releases/download/v1.6.90/Jin4Mac-1.6.90.dmg" sparkle:edSignature="75KEQMBbrh8WvwQ0cowyHaToztwM/pDmkyxRnCCCCTgb14tkPq6Gubp5AZkkQCxkEsJNbcJOMSyXLKo/23dfCA==" length="50741681" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.89</title>
       <description><![CDATA[
                 <ul>
