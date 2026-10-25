@@ -6,6 +6,19 @@
     <description>Jin4Mac updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.6.94</title>
+      <description><![CDATA[
+                <ul>
+                    <li>Jin Dock</li>
+                </ul>
+      ]]></description>
+      <pubDate>Sun, 25 Oct 2026 09:26:37 -0000</pubDate>
+      <sparkle:version>1.6.94</sparkle:version>
+      <sparkle:shortVersionString>1.6.94</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/studiocx360/jin4mac-releases/releases/download/v1.6.94/Jin4Mac-1.6.94.dmg" sparkle:edSignature="egyzOrHePiuf0PlEK0lC17HDhzVNtf35zgCwrAchfPpEFPDW/D7xiZ4jiL+uIsRANMAK+hZ5015oIWWHwbmCCQ==" length="51065264" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.93</title>
       <description><![CDATA[
                 <ul>
