@@ -6,6 +6,27 @@
     <description>Jin4Mac updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.6.96</title>
+      <description><![CDATA[
+                <ul>
+                    <li>Slideshow and Auto Tile</li>
+                    <li>• Slideshow: play a meeting with its slides, which change by themselves as the words scroll. Has slides in the Library filter finds those meetings.</li>
+                    <li>• Auto Tile: save a layout of your windows and put every window back in place with one click.</li>
+                    <li>• Tick a whole item: one click on an item&#x27;s circle ticks every sub-task under it.</li>
+                    <li>• Merge events, and Move to another day from a task&#x27;s More.</li>
+                    <li>• Day Labels show under each day&#x27;s name in the month and the day list.</li>
+                    <li>• The calendar window fits its view, and the week gets its full width back.</li>
+                    <li>• Click a dictated shortcut for its key symbols, and powers like x² on one click.</li>
+                    <li>• Circled numbers now sit small and raised, like a footnote.</li>
+                </ul>
+      ]]></description>
+      <pubDate>Tue, 27 Oct 2026 14:11:51 -0000</pubDate>
+      <sparkle:version>1.6.96</sparkle:version>
+      <sparkle:shortVersionString>1.6.96</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/studiocx360/jin4mac-releases/releases/download/v1.6.96/Jin4Mac-1.6.96.dmg" sparkle:edSignature="RdlMXA72mN8/4k+t42/bY7Oou0HU8e4o+XiNAZk9YYCADL0kH264WPLo9ayt03Z6wci6YGD9iu24olZi9dF8Aw==" length="51730352" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.94</title>
       <description><![CDATA[
                 <ul>
