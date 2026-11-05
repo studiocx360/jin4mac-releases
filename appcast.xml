@@ -6,6 +6,32 @@
     <description>Jin4Mac updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.7.2</title>
+      <description><![CDATA[
+                <ul>
+                    <li>Canvas, Screen Pen and Sticky Notes</li>
+                    <li>• Canvas: a board with no edges for sticky notes, text, shapes, pictures and arrows, opened from the sidebar or the Jin Dock.</li>
+                    <li>• Zones, grids, mind maps, roadmaps and sheets on the Canvas, and two canvases side by side with Split.</li>
+                    <li>• Picture cards: take a screenshot or a whole scrolling page straight into a card, pick its shape, and draw on it with Edit.</li>
+                    <li>• Link a zone to an event or a task, and the Canvas and the Calendar stay the same both ways.</li>
+                    <li>• Press your Triggers key and say canvas to add a sticky note from any app.</li>
+                    <li>• Screen Pen: draw on your screen over any app, and hold Command to talk a callout.</li>
+                    <li>• Circled draws only while you hold its key, and Circled, Screen Pen and Mark Up share one set of keys.</li>
+                    <li>• Mark Up: crop, Shorter for callouts, Save in Existing, and numbers you place yourself.</li>
+                    <li>• Sticky notes on Guide pages, Calendar, Tips and the To-Dos column.</li>
+                    <li>• Calendar: Next Free, holidays, vacation days, blackout days, Up Next, and a clock on every task.</li>
+                    <li>• Pomodoro timers on the Control Surface.</li>
+                    <li>• Only the voice nearest your microphone is typed, so a TV in the next room is left out.</li>
+                    <li>• Tip and Quiz of the Day show the last card on top, with a number on every one.</li>
+                </ul>
+      ]]></description>
+      <pubDate>Thu, 05 Nov 2026 15:17:48 -0000</pubDate>
+      <sparkle:version>1.7.2</sparkle:version>
+      <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/studiocx360/jin4mac-releases/releases/download/v1.7.2/Jin4Mac-1.7.2.dmg" sparkle:edSignature="kF5N80zg8S80IxHzYqM0WPboDwM+bKRdtCRVguQ+U8L/8SjlQK78hXZfIydAA4pNpbqGiUXDJik8HQVP6KkgCQ==" length="55329200" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.6.96</title>
       <description><![CDATA[
                 <ul>
